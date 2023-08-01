@@ -109,3 +109,4 @@ Render dashboard, clicking the "Manual Deploy" button in the upper right corner
 of the page, and selecting "Deploy latest commit."
 # botserver
 # botserver
+# botserverTemplate
